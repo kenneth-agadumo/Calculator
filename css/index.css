@@ -70,6 +70,7 @@ body{
     gap: calc(1vh * (5 * 0.618));
     justify-content: flex-start;
     align-items: center;
+    overflow: hidden;
 }
 
 .width{
