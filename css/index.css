@@ -295,7 +295,7 @@ button:hover{
 /* MOBILE */
 @media screen and  (max-width: 768px){
     body{
-        gap: calc(1px * (30 * 0.618));
+        gap: calc(1px * (25 * 0.618));
     }
     
     .width{
