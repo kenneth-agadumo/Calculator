@@ -290,15 +290,13 @@ button:hover{
     #equals{
         font-size: calc(1em * (3 * 0.618));
     }
- 
-    
 }
 
 /* MOBILE */
 @media screen and  (max-width: 768px){
     body{
         padding-top: 1rem;
-        gap: calc(1px * (50 * 0.618));
+        gap: calc(1px * (35 * 0.618));
     }
     
     .width{
