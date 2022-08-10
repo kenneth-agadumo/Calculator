@@ -295,12 +295,10 @@ button:hover{
 /* MOBILE */
 @media screen and  (max-width: 768px){
     body{
-        padding-top: 1rem;
-        gap: calc(1px * (35 * 0.618));
+        gap: calc(1px * (30 * 0.618));
     }
     
     .width{
-        
         width: 85%;
         border-radius: 12px;
     }
